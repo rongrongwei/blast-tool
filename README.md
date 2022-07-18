@@ -1,6 +1,9 @@
 # Standard Nucleotide BLAST (Rachel Wei)
 This web app performs BLAST serach for nucleotides 
 
+## Demo
+For now, this app is deployed on AWS ECS to test at this ip/port [http://52.10.155.41:5000/](http://52.10.155.41:5000/). Docker setup is in docker folder/docker-compose. 
+
 ## Installation/Setup
 Before running this web app, make sure the Python dependencies have been installed. Run:  
 ```
